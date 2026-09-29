@@ -1,0 +1,24 @@
+<article class="detalle">
+    <h2>
+        <%= mascota.nombre %>
+    </h2>
+    <figure>
+        <img src="<%= mascota.imagen %>" alt="Imagen de <%= mascota.nombre %>">
+    </figure>
+    <p class="descripcion">
+        <%= mascota.especie %>
+    </p>
+    <p class="descripcion">
+        <%= mascota.raza %>
+    </p>
+    <p class="descripcion">
+        <%= mascota.edad %> años
+    </p>
+    <p class="descripcion">
+        <%= mascota.descripcion %>
+    </p>
+    <p class="descripcion">
+        <%= mascota.estado %>
+    </p>
+    <a href="/mascotas">Volver al listado</a>
+</article>

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "nombre": "Jack",
+    "especie": "Perro",
+    "raza": "Labrador",
+    "edad": 5,
+    "descripcion": "es un perro juguetón y amigable",
+    "estado": "Adoptada",
+    "imagen": "../img/perroLabrador.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Luna",
+    "especie": "Gato",
+    "raza": "Siamés",
+    "edad": 3,
+    "descripcion": "es una gata tímida y cariñosa",
+    "estado": "Reservada",
+    "imagen": "../img/gatoSiames.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Rocky",
+    "especie": "Perro",
+    "raza": "Bulldog",
+    "edad": 4,
+    "descripcion": "es un perro guardian y leal",
+    "estado": "En adopción",
+    "imagen": "../img/perroBulldog.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Milo",
+    "especie": "Gato",
+    "raza": "bengal",
+    "edad": 2,
+    "descripcion": "es un gato tranquilo y feliz",
+    "estado": "En adopción",
+    "imagen": "../img/gatoBengal.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Kimba",
+    "especie": "Perro",
+    "raza": "Golden Retriever",
+    "edad": 6,
+    "descripcion": "es un perra inquieto y activa",
+    "estado": "Reservada",
+    "imagen": "../img/perroGoldenRetriever.jpg"
+  }
+]
