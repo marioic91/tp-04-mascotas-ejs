@@ -1,5 +1,3 @@
-Claro. Para el **TP 04**, te preparo el `README.md` siguiendo la estructura y los requisitos de la consigna, y manteniendo el nivel de la Semana 4: **Express + EJS + vistas dinámicas + layouts + formularios + validaciones**. 
-
 # Trabajo práctico 04
 
 ## Descripción
